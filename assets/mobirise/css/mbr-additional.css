@@ -1771,6 +1771,59 @@ body {
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #ffffff;
 }
+.cid-qUbubRdJRZ {
+  background-image: url("../../../assets/images/skoda-octavia-skica-clanokw-825x463.jpg");
+}
+.cid-qUbubRdJRZ h1 {
+  color: #616161;
+}
+.cid-qUbubRdJRZ h2,
+.cid-qUbubRdJRZ h3,
+.cid-qUbubRdJRZ p {
+  color: #767676;
+}
+.cid-qUbubRdJRZ .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qUbubRdJRZ P {
+  color: #ffffff;
+  text-align: right;
+}
+.cid-qUaHxAiCL5 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-qUaHxAiCL5 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qUaQBiQAmC {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qUaQBiQAmC .line {
+  background-color: #ff3366;
+  color: #ff3366;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qUaQBiQAmC .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qUaQBiQAmC .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qUaQBiQAmC .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qUaQBiQAmC .section-text B {
+  color: #232323;
+}
 .cid-qU5GVm84QO {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1832,41 +1885,6 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-}
-.cid-qUaHxAiCL5 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #dbd4b8, #25aab2);
-}
-.cid-qUaHxAiCL5 .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-qUaQBiQAmC {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qUaQBiQAmC .line {
-  background-color: #ff3366;
-  color: #ff3366;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qUaQBiQAmC .section-text {
-  padding: 2rem 0;
-  text-align: left;
-}
-.cid-qUaQBiQAmC .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qUaQBiQAmC .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qUaQBiQAmC .section-text B {
-  color: #232323;
 }
 .cid-qUaXMoRWtf {
   padding-top: 60px;
